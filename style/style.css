@@ -1,0 +1,35 @@
+td, th {
+	vertical-align: middle !important;
+	text-align: center !important; 
+}
+
+.input-group {
+	margin: 0 auto;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	width: 50vw;
+	text-align: center;
+}
+
+
+
+svg {
+	height: 10rem;
+}
+
+td:first-of-type, td:first-of-type > div {
+	height: 12rem;
+	width: 15rem;
+}
+
+.header-container {
+	background-color: #003366;
+	color: #FFFFFF;
+	padding: 0.25rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border-radius: 10px;
+	box-shadow: 8px 8px #CCCCCC;
+	margin-top: 2rem;
+}
